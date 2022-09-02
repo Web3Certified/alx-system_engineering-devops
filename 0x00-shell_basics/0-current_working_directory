@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 /alx-system_engineering-devops/0x00-shell_basics
+=======
+#!/bin/bash
+pwd
+>>>>>>> b2c8b5bce00e1c666588993812aa0266a0a33587
